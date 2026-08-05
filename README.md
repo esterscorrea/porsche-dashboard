@@ -51,11 +51,6 @@ Base de 100 registros de vendas, tratados a partir de dados originais com incons
 - [Chart.js](https://www.chartjs.org/) (embutido, sem CDN)
 - Sem frameworks, sem build step
 
-## Publicar com GitHub Pages
-
-1. Vá em **Settings → Pages** neste repositório
-2. Em **Branch**, selecione `main` e a pasta `/ (root)`
-3. Salve — em 1–2 minutos o link fica disponível em `https://esterscorrea.github.io/porsche-dashboard/`
 
 ## Design
 
