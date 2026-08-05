@@ -2,8 +2,6 @@
 
 Dashboard de análise de vendas com identidade visual inspirada na Porsche — filtros interativos, KPIs em tempo real e insights de negócio, tudo em um único arquivo HTML, sem backend e sem dependência de internet.
 
-🔗 **Demo ao vivo:** `https://esterscorrea.github.io/porsche-dashboard/` *(ative o GitHub Pages para gerar este link — veja instruções abaixo)*
-
 ![status](https://img.shields.io/badge/status-pronto-c6a567) ![tipo](https://img.shields.io/badge/tipo-single--file-1a1a1a)
 
 ---
